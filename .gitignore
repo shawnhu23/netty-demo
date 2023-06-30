@@ -1,0 +1,12 @@
+.settings
+target
+.classpath
+.project
+/logs/*
+pom.xml.versions*
+*.iml
+.idea/*
+.bpmn/*
+.DS_Store
+*/.DS_Store
+log4j2-dev.xml
